@@ -121,12 +121,13 @@
 
 /* footer */
 .footer {
-  margin-top: 50px;
+  margin-top: 25px;
+  margin-bottom: 25px;
 }
 
 .footer p {
   color: #acacac;
-  font-size: 18px;
+  font-size: 14px;
 }
 
 /* Menu */
